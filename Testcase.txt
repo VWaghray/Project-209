@@ -1,0 +1,39 @@
+Test case 1
+How many cars - 10
+Collision - Yes
+Collision happened after how many seconds - 13.726582288742065 seconds
+
+Test case 2
+How many cars - 20
+Collision - Yes
+Collision happened after how many seconds - 16.80076789855957 seconds
+
+Test case 3
+How many cars - 30
+Collision - Yes
+Collision happened after how many seconds - 13.259500980377197 seconds
+
+Test case 4
+How many cars - 40
+Collision - Yes
+Collision happened after how many seconds - 11.591451168060303 seconds
+Intensity of collision - 16982.71129293688
+Collision happened with a - Pole
+
+Test case 5
+How many cars - 50
+Collision - Yes
+Collision happened after how many seconds - 12.583852767944336 seconds 
+Intensity of collision - 16397.8661480237178
+Collision happened with a - Pole 
+
+Test case 6
+How many cars - 100
+Collision - Yes
+Collision happened after how many seconds - 13.61672043800354 seconds 
+Intensity of collision - 16004.09386750049
+Collision happened with a - Wall 
+
+
+
+
